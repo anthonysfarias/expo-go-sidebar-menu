@@ -18,3 +18,8 @@ Certifique-se de ter o ambiente de desenvolvimento Expo configurado em seu siste
 
 ```bash
 npm install
+```
+ou
+```bash
+yarn install
+```
